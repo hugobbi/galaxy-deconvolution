@@ -1,0 +1,5 @@
+Ler no xournal++ e marcar:
+
+laranja - valores de parâmetros
+verde - conceitos importantes
+azul - resultados

@@ -1,0 +1,7 @@
+ρ0 ∈ (10−5, 10−2)
+
+
+tol at 10−3 is usually valid for
+γ ∈ (1, 2) and ρ0 ∈ (10−5, 10−2)
+
+tol -> tolerance
